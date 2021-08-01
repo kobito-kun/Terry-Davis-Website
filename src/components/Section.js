@@ -6,7 +6,7 @@ function Section() {
     <div className="h-auto darkless-bg flex justify-center lg:flex-row flex-col p-10 overflow-hidden items-center">
       <Slide bottom duration={1000}>
         <div className="max-w-kobi text-gray-100 relative w-full m-5 lg:h-36">
-          <quote className="lg:m-0 italic font-thin">"Plan B? I'm not sucking CIA nigger cock, bitch. Fuck yerself. I have a space alien, Plan B, Fuck you."</quote>
+          <quote className="lg:m-0 italic font-thin">"Plan B? I'm not ****ing CIA ****** ****, *****. **** yerself. I have a space alien, Plan B, **** you."</quote>
           <span className="lg:absolute float-right mt-10 bottom-0 right-0 font-bold">~ Terry A. Davis</span>
         </div>   
       </Slide>
@@ -18,13 +18,13 @@ function Section() {
       </Slide>      
       <Slide bottom duration={1400}>
         <div className="max-w-kobi text-gray-100 relative w-full m-5 lg:h-36">
-          <quote className="lg:m-0 italic font-thin">"I have God's official endorsement. I win and the CIA/FBI niggers lose. Just wait. Dumb fuck FBI niggers."</quote>
+          <quote className="lg:m-0 italic font-thin">"I have God's official endorsement. I win and the CIA/FBI ******* lose. Just wait. Dumb **** FBI *******."</quote>
           <span className="lg:absolute float-right mt-10 bottom-0 right-0 font-bold">~ Terry A. Davis</span>
         </div>
       </Slide>
       <Slide bottom duration={1600}>
         <div className="max-w-kobi text-gray-100 relative w-full m-5 lg:h-36">
-          <quote className="lg:m-0 italic font-thin">"India nigger retard doctor."</quote>
+          <quote className="lg:m-0 italic font-thin">"India ****** ***** doctor."</quote>
           <span className="lg:absolute float-right mt-10 bottom-0 right-0 font-bold">~ Terry A. Davis</span>
         </div>   
       </Slide>
