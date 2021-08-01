@@ -10,9 +10,7 @@ import TerryGrad from '../assets/1_9f7v5K4u8AsAH2sCiThgFQ.jpeg'
 function Timeline() {
   return (
     <div className="dark-bg">
-      <VerticalTimeline
-        animate={false}
-      >
+      <VerticalTimeline>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           dateClassName="text-white"

@@ -18,9 +18,9 @@ function Hero() {
           <div className="w-72 lg:w-96 h-32 rounded-t-full darkless-bg absolute bottom-0"></div>
         </Slide>
       </div>
-      <div className="z-20 mb-40">
+      <div className="z-20 mb-40 p-10">
         <Slide left duration={1500}>
-          <h1 className="bebas text-5xl lg:text-6xl font-bold tracking-wider text-white">
+          <h1 className="bebas text-5xl lg:text-6xl font-bold tracking-wider text-white text-center">
             Terry Andrew Davis
           </h1>
         </Slide>
