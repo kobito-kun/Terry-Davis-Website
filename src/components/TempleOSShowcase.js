@@ -4,8 +4,8 @@ import Slide from 'react-reveal/Slide';
 
 function TempleOSShowcase() {
   return (
-    <section className="dark-bg p-10 text-white flex justify-center items-center">
-      <div className="grid grid-cols-1 lg:grid-cols-2 max-w-kobi">
+    <section className="dark-bg p-10 text-gray-200 flex justify-center items-center">
+      <div className="grid grid-cols-1 lg:grid-cols-2 max-w-kobi lg:mb-20">
         <Slide left>
           <div className="flex justify-center items-center">
             <img src={TempleOSPNG} alt="temple os logo" className="w-80" />
