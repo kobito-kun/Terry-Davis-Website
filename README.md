@@ -1,23 +1,6 @@
-## Terry Andrew Davis Tribute Website
+## 👨 Terry Andrew Davis Tribute Website
 
 A frontend website made in for tribute of Terry Davis.
-
-[Live Preview](https://terrydavis.vercel.app/) [My Website](https://kobi.lol)
-
-## Technologies Used
-
-<div>
-  <div>
-    <h4>Frontend</h4>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>JavaScript</li>
-      <li>TailwindCSS</li>
-      <li>ReactJS</li>
-    </ul>
-  </div>
-</div>
 
 ## Setup
 
